@@ -12,4 +12,4 @@ In this project, there are several notebooks and images for whose description is
 
 5: KMeans with TF-IDF.ipynb: As the name says, this notebook just contains KMeans but the vector was created with with TF-IDF and then the predcition was made.
 
-    If time and memory were not the concern, better approaches and more fine tuning of vecctor representation of our vocabulary could've been achieved.
+If time and memory were not the concern, better approaches and more fine tuning of vecctor representation of our vocabulary could've been achieved.
