@@ -1,3 +1,5 @@
+Medium Post Link:  https://medium.com/@puneet.gajwal99/twitter-sentiment-and-time-series-analysis-e032f8b0f951
+
 # Twitter-Unsupervised-Sentiment-Analysis-and-Time-Series-Visualization
 
 In this project, there are several notebooks and images for whose description is necessary.
